@@ -1,0 +1,7 @@
+The input is taken from the standard input.
+End of file is marked by EOF (No data left if you are forwarding the data from text file, or
+Ctrl-D if you are reading from the standard input.
+Words are separated by a single space
+Each line is ended by ‘\n’
+Each line starts with a letter (does not start with space
+The output is one word (from each line) followed by ‘\n’
