@@ -1,5 +1,4 @@
 //Luqmaan Irshad 217222365 luq21 
-//EECS 3216 Lab 1
 #include <stdio.h>
 #include <string.h>
 
